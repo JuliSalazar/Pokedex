@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "913741784559",
+    "firebase_url": "https://iniciacionenfirebase.firebaseio.com",
+    "project_id": "iniciacionenfirebase",
+    "storage_bucket": "iniciacionenfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913741784559:android:5e366653d18b066825421a",
+        "android_client_info": {
+          "package_name": "co.domi.clase14"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913741784559-a52fvkvv9scoqmdnejvd0n2brl9kcgm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfott-aF85IM341_xMV7BpXh6tQIhdHHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913741784559-a52fvkvv9scoqmdnejvd0n2brl9kcgm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913741784559:android:170e3e0d34ae06bc25421a",
+        "android_client_info": {
+          "package_name": "co.domi.ejercicioclase11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913741784559-a52fvkvv9scoqmdnejvd0n2brl9kcgm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfott-aF85IM341_xMV7BpXh6tQIhdHHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913741784559-a52fvkvv9scoqmdnejvd0n2brl9kcgm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913741784559:android:3fdf0133b28a8f7d25421a",
+        "android_client_info": {
+          "package_name": "com.example.retopokemon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913741784559-a52fvkvv9scoqmdnejvd0n2brl9kcgm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfott-aF85IM341_xMV7BpXh6tQIhdHHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913741784559-a52fvkvv9scoqmdnejvd0n2brl9kcgm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

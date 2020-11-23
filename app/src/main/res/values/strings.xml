@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RetoPokemon</string>
+    <string name="title">POKEDEX</string>
+    <string name="ingresa">Ingresa tu nombre de usuario</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="btningresa">Ingresar</string>
+    <string name="atrapa">Atrapa un pokemon</string>
+    <string name="btnatrapa">Atrapar</string>
+    <string name="titlepoke">Mis Pokemon</string>
+    <string name="search">Buscar</string>
+    <string name="btnsoltar">Soltar</string>
+    <string name="tvDefensa">Defensa</string>
+    <string name="tvAtaq">Ataque</string>
+    <string name="tvVel">Velocidad</string>
+    <string name="tvVida">Vida</string>
+</resources>
